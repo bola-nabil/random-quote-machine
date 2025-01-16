@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "quote": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "id": 2,
+    "quote": "I would rather die of passion than of boredom.",
+    "author": "Vincent van Gogh"
+  },
+  {
+    "id": 3,
+    "quote": "Certain things catch your eye, but pursue only those that capture the heart",
+    "author": "Ancient Indian Proverb"
+  },
+  {
+    "id": 4,
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 5,
+    "quote": "Either you run the day, or the day runs you.",
+    "author": "Jim Rohn"
+  },
+  {
+    "id": 6,
+    "quote": "There are no traffic jams along the extra mile.",
+    "author": "Roger Staubach"
+  },
+  {
+    "id": 7,
+    "quote": "I attribute my success to this: I never gave or took any excuse.",
+    "author": "Florence Nightingale"
+  },
+  {
+    "id": 8,
+    "quote": "Education costs money. But then so does ignorance.",
+    "author": "Sir Claus Moser"
+  },
+  {
+    "id": 9,
+    "quote": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "id": 10,
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb"
+  }
+]

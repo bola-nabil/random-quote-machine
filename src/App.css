@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#quote-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 650px;
+  height: fit-content;
+}
+
+.quote-text {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+#text {
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.1;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.quote-icon {
+  font-size: 30px;
+}
+
+#author {
+  text-align: right;
+}
+
+.icons {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 15px;
+}
+
+.icon {
+  color: white;
+  font-size: 20px;
+  border-radius: 4px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#tweet-quote {
+  margin-right: 10px;
+}
+
+.quote-btn {
+  margin-left: auto;
+}
+
+#new-quote {
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.me {
+  color: white;
+  margin-top: 10px;
+}
+
+@media (max-width: 600px) {
+  #quote-box {
+    width: 300px;
+  }
+  #text,
+  .quote-icon {
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 767px) {
+  #quote-box {
+    width: 550px;
+  }
+}
